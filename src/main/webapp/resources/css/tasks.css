@@ -1,0 +1,19 @@
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.buttons {
+    padding-top: 10px;
+    padding-left: 325px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.buttons button {
+    width: 150px;
+}

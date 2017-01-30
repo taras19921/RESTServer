@@ -1,0 +1,23 @@
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.tables {
+    padding-left: 30px;
+}
+
+.user-table {
+    margin: 0 auto;
+}
+
+.movie-table {
+    margin: 0 auto;
+}
+
+.rating-table {
+    margin: 0 auto;
+}

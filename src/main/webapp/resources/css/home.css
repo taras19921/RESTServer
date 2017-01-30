@@ -1,0 +1,24 @@
+
+.rest-server-title {
+    text-align: center;
+}
+
+.tasks-block {
+    /*padding-left: 150px;*/
+    width: 800px;
+    margin:0 auto;
+}
+
+#tasks {
+    /*padding-left: 150px;*/
+    width: 300px;
+    /*margin:0 auto;*/
+}
+
+button#task0 {
+    background-image: none;
+    background-color: #035270;
+    color: #ffffff;
+    font-weight: normal;
+    text-shadow: none;
+}
